@@ -1,7 +1,9 @@
-﻿{
-  "version": "V1.1.0",
-  "url": "https://github.com/610263716-cell/acp-tool-releases/releases/download/V1.1.0/ACP-Tool-V1.1.0.exe",
-  "notes": "1.修复自动更新\n2.修复刻印石计算错误的问题\n3.增加换装模拟",
-  "sha256": "bc884f8aa3bd75950b451e8febdb0bd4314c7cc99d9109bcedcd723587170b43",
-  "size": 170998969
+{
+  version: V1.1.1,
+  url: https://github.com/610263716-cell/acp-tool-releases/releases/download/V1.1.1/ACP-Tool-V1.1.1.exe,
+  notes: 1.修复自动更新
+2.修复刻印石计算错误的问题
+3.增加换装模拟,
+  sha256: 6b643f4287748ce473da343aa50d4d6ef8f6eb3468f57dd265975e7f108b849b,
+  size: 149545194
 }
