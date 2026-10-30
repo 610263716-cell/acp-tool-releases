@@ -1,10 +1,12 @@
 {
   "version": "V1.1.1",
   "url": "https://github.com/610263716-cell/acp-tool-releases/releases/download/V1.1.1/ACP-Tool-UpdateHelper-V1.1.1.exe",
-  "notes": "1.修复自动更新\n2.修复刻印石计算错误的问题\n3.增加换装模拟\n（V1.0.5将先下载小型升级助手再安装完整包）",
-  "sha256": "15419f8bd12cf748cdf3cdc1a1cd95efa839d93145f95eba295fe7d69d8f6b5f",
-  "size": 7853429,
+  "notes": "1.修复自动更新\n2.修复刻印石计算错误的问题\n3.增加换装模拟\n（V1.0.5将先下载小型升级助手，助手自动安装完整包；已下载完整包会复用）",
+  "sha256": "fec86ac5e21fe35c1a406a7e47eb24bb92f1bda4324a8d3e1dc886de69549d22",
+  "size": 7853516,
   "full_url": "https://github.com/610263716-cell/acp-tool-releases/releases/download/V1.1.1/ACP-Tool-V1.1.1.exe",
   "full_sha256": "6b643f4287748ce473da343aa50d4d6ef8f6eb3468f57dd265975e7f108b849b",
-  "full_size": 149545194
+  "full_size": 149545194,
+  "gitcode_url": "https://gitcode.com/ShadowI/acp-tool-releases/releases/download/V1.1.1/ACP-Tool-UpdateHelper-V1.1.1.exe",
+  "gitcode_full_url": "https://gitcode.com/ShadowI/acp-tool-releases/releases/download/V1.1.1/ACP-Tool-V1.1.1.exe"
 }
