@@ -1,5 +1,7 @@
-{
+﻿{
   "version": "V1.1.0",
   "url": "https://github.com/610263716-cell/acp-tool-releases/releases/download/V1.1.0/ACP-Tool-V1.1.0.exe",
-  "notes": "新增换装对比页；修复换装 K5 显示 #N/A 与半换装差值被清零；换装页文案精简"
+  "notes": "1.修复自动更新\n2.修复刻印石计算错误的问题\n3.增加换装模拟",
+  "sha256": "bc884f8aa3bd75950b451e8febdb0bd4314c7cc99d9109bcedcd723587170b43",
+  "size": 170998969
 }
