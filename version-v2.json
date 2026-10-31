@@ -1,7 +1,7 @@
 {
-  "version": "V1.1.2",
-  "url": "https://github.com/610263716-cell/acp-tool-releases/releases/download/V1.1.2/ACP-Tool-V1.1.2.exe",
-  "notes": "升级流程测试版（V1.1.1 → V1.1.2）",
-  "sha256": "9d60bc5f84414cb2161a4a361cca01036ddc5c07d238cb3d956c0307ea658c8e",
-  "size": 149615878
+  "version": "V1.1.3",
+  "url": "https://github.com/610263716-cell/acp-tool-releases/releases/download/V1.1.3/ACP-Tool-V1.1.3.exe",
+  "notes": "1.补齐换装页冰装与一件套图标\n2.漏填时弹窗标明缺哪些项\n3.修复部分场地计算显示#N/A\n4.死龙变换与换装配置重启后自动恢复",
+  "sha256": "07ccbac9d7ae5cc608240ad9d6126113c76002d95fda53c6b4a03750c710d560",
+  "size": 151227652
 }
