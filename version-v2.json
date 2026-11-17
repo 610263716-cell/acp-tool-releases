@@ -1,7 +1,7 @@
 {
-  "version": "V1.2.0",
-  "url": "https://gitcode.com/ShadowI/acp-tool-releases/releases/download/V1.2.0/ACP-Tool-V1.2.0.exe",
-  "notes": "冰装推荐页；换装带入仅确认槽；王冠/会话等修正",
-  "sha256": "87bbff91774eb9e11d4d40d3cb8234cdddb08f9889e0fe047bfb3c34bc8565bd",
-  "size": 198950803
+  "version": "V1.2.1",
+  "url": "https://gitcode.com/ShadowI/acp-tool-releases/releases/download/V1.2.1/ACP-Tool-V1.2.1.exe",
+  "notes": "随包 Node 加速冰装推荐；新增魔法石插槽最优分配",
+  "sha256": "827b3d769ab5ed07c8358d60e2c9231df2c87c52b94190e104d321dfa84c70e0",
+  "size": 230868367
 }
