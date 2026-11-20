@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-{"version":"V1.2.7","url":"https://gitcode.com/ShadowI/acp-tool-releases/releases/download/V1.2.7/ACP-Tool-V1.2.7.exe","notes":"1.刻印增加 0.5× 强化等级下拉\n2.一律使用新表ACP，无回落\n3.报错改用字段中文名\n4.修复 RapidOCR 打包导致大图识别失败\n5.晚页也改为新表ACP\n6.新增第三页「计算ACP权重」\n7.换装结果增加属性对比\n8.假设加点去掉 Items 六行并补 Main 差值","sha256":"0fcfda771acec25feb2291b3402e0e5b938b91cfc8d93910f4ff19b94a84aaa7","size":273284444}
-=======
 {
   "version": "V1.2.8",
   "url": "https://gitcode.com/ShadowI/acp-tool-releases/releases/download/V1.2.8/ACP-Tool-V1.2.8.exe",
@@ -8,4 +5,3 @@
   "sha256": "ae97acc84439109f0b9b00c55ee7b85bb77779fff3c1d33dc989daaed696919e",
   "size": 305109225
 }
->>>>>>> 09bdea9 (bump version-v2.json to V1.2.8)
